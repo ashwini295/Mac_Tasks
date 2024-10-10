@@ -4,22 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a353b6d1-2cb2-4360-b5d7-e0f5b940984b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB9xJavaProgramssss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Octex_09102024/Task.java" afterDir="false" />
+    <list default="true" id="a353b6d1-2cb2-4360-b5d7-e0f5b940984b" name="Changes" comment="commiting 9 oct">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Bab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Octex_11102024_Operatores/Lab40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ashwini &lt;ashwini.h209@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ashwini295&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ashwini295/Mac_Tasks&quot;,
+    &quot;accountId&quot;: &quot;b4a92c5f-1b74-4cca-9f8d-1119570b47d2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -47,24 +65,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bab050.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab022.executor": "Run",
     "Application.Lab023.executor": "Run",
     "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab40.executor": "Run",
+    "Application.Lab41.executor": "Run",
+    "Application.Task.executor": "Run",
     "Application.task_001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/epi/IdeaProjects/ATB9xJavaProgramssss/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Octex_09102024.Lab022" />
+  <component name="RunManager" selected="Application.Bab050">
+    <configuration name="Bab050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Octex_11102024_Operatores.Bab050" />
       <module name="ATB9xJavaProgramssss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Octex_09102024.*" />
+          <option name="PATTERN" value="Octex_11102024_Operatores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Octex_09102024.Lab023" />
+    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Octex_11102024_Operatores.Lab044" />
       <module name="ATB9xJavaProgramssss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Octex_09102024.*" />
+          <option name="PATTERN" value="Octex_11102024_Operatores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Octex_09102024.Lab025" />
+    <configuration name="Lab045" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Octex_11102024_Operatores.Lab045" />
       <module name="ATB9xJavaProgramssss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Octex_09102024.*" />
+          <option name="PATTERN" value="Octex_11102024_Operatores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Octex_09102024.Task" />
+    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Octex_11102024_Operatores.Lab047" />
       <module name="ATB9xJavaProgramssss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Octex_09102024.*" />
+          <option name="PATTERN" value="Octex_11102024_Operatores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Octex_03102024.task_001" />
+    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Octex_11102024_Operatores.Lab049" />
       <module name="ATB9xJavaProgramssss" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Octex_03102024.*" />
+          <option name="PATTERN" value="Octex_11102024_Operatores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Lab025" />
-        <item itemvalue="Application.Lab023" />
-        <item itemvalue="Application.Lab022" />
-        <item itemvalue="Application.task_001" />
+        <item itemvalue="Application.Bab050" />
+        <item itemvalue="Application.Lab049" />
+        <item itemvalue="Application.Lab047" />
+        <item itemvalue="Application.Lab045" />
+        <item itemvalue="Application.Lab044" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +182,39 @@
       <option name="presentableId" value="Default" />
       <updated>1727881645975</updated>
     </task>
+    <task id="LOCAL-00001" summary="commiting 9 oct">
+      <option name="closed" value="true" />
+      <created>1728473254675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728473254675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commiting 9 oct">
+      <option name="closed" value="true" />
+      <created>1728473386068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728473386070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commiting 9 oct">
+      <option name="closed" value="true" />
+      <created>1728563110967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728563110967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commiting 9 oct">
+      <option name="closed" value="true" />
+      <created>1728563140452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728563140452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +227,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commiting 9 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="commiting 9 oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
