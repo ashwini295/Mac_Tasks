@@ -8,14 +8,14 @@ public class Bab050
 
         int a=10;
 
-        int b= a+=10;
-        System.out.println(b);
+        //int b= a+=10;
+        //System.out.println(b);
 
         int c= a-=10;
         System.out.println(c);
 
-        int d=a*=10;
-        System.out.println(d);
+        //int d=a*=10;
+        //System.out.println(d);
 
         int e=a/=10;
         System.out.println(e);
